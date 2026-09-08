@@ -1,5 +1,5 @@
 ⚠️ Repositorio en construcción
-Este repositorio forma parte del Trabajo de Fin de Máster "Ciberresiliencia en PyMEs: modelo estratégico para la protección y recuperación de datos en entornos de nube" (Máster en Ciberdelincuencia, UNIR, 2026). El contenido está siendo desarrollado progresivamente en el marco de la actividad de DCS Consulting.
+Este repositorio forma parte del Trabajo de Fin de Máster "Ciberresiliencia en PyMEs: modelo estratégico para la protección y recuperación de datos en entornos de nube" (Máster en Ciberdelincuencia, UNIR, 2026). El contenido está siendo desarrollado progresivamente. 
 
 
 # 🛡️ RECRIPEI-CR: Modelo de Ciberresiliencia para PyMEs
