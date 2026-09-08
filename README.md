@@ -95,7 +95,5 @@ print(resultado)
 
 > Blanco Alzola, S. (2026). *Ciberresiliencia en PyMEs: modelo estratégico para la protección y recuperación de datos en entornos de nube*. Trabajo de Fin de Máster, Máster Universitario en Ciberdelincuencia, UNIR.
 
----
 
-*Construyamos sociedades digitales más inteligentes. — DCS Consulting*
 
