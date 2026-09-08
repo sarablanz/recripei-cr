@@ -1,7 +1,6 @@
 # 🛡️ RECRIPEI-CR: Modelo de Ciberresiliencia para PyMEs
 
 **Autora:** Saray Blanco Alzola  
-**Empresa:** DCS Consulting (@dcs_consulting) 
 
 ---
 
